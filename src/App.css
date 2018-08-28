@@ -8,13 +8,22 @@
 }
 
 .App-header {
-  background-color:red; 
+  background-color: black; 
   color: green;
-  
+  height: 200px;
+  text-align: center;
+  font-size: 100px;
+  font-family: fantasy;
 }
 
-.App-title {
-  font-size: 75px;
+html {
+  background-color: gray;
+}
+
+.dom{
+  font-size: 60px;
+  color: white;
+  font-family: cursive;
 }
 
 .App-intro {

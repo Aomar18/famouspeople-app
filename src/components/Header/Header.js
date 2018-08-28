@@ -4,9 +4,9 @@ import React, { Component } from 'react';
 class Header extends Component {
     render() {
         return (
-            <header className="App-header">
-            <h1 className="App-title"> </h1>
-          </header>
+            <div className="App-header">
+             *Famous People*
+          </div>
             
          
         );
