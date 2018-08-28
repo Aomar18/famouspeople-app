@@ -6,7 +6,10 @@ class Header extends Component {
         return (
             <div className="App-header">
              *Famous People*
+             <br/>
+             <img className="App-logo" src="http://logo.pizza/img/collage-vol2.png" alt="pizza"/>
           </div>
+
             
          
         );
